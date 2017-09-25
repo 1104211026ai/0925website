@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Ajenny Pages
 
 You can use the [editor on GitHub](https://github.com/1104211026ai/0925website/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
